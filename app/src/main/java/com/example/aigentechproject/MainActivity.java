@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(i);
                     setContentView(R.layout.activity_home);
 
-                    //Toast.makeText(getApplicationContext(),"Redirecting...",Toast.LENGTH_SHORT).show();
+                    //Toast.makeText(getApplicationContext(),"login successful",Toast.LENGTH_SHORT).show();
                 }
                 else
                 {
