@@ -8,6 +8,6 @@
 
 ![](images/Screenshot_20191124-144129.jpg)
 
-**3)Ad view Screen
+**3)Ad view Screen**
 
 ![](images/Screenshot_20191124-144200.jpg)
